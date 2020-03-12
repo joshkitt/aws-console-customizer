@@ -1,1 +1,1 @@
-# aws-browser-extension
+# AWS Console Customizer
