@@ -19,7 +19,7 @@ Allows you to customize the display of your AWS account ids for the SAML signin 
 - Turn on "Developer mode"
 - Click on the "Load unpacked button"
 - Browse to the directory on your local system where you cloned the source code
-- Click the extension button that is now in your browser <img src="./icon.png"/>
+- Click the extension button that is now in your browser <img src="./icon.png" width="22px" height="22px"/>
 - Configure your account settings as desired
 ```json
 [
