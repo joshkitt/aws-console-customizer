@@ -12,6 +12,9 @@ Allows you to customize the display of your AWS account ids for the SAML signin 
 <div>
     <img src="./screen2.png"/>
 </div>
+<div>
+    <img src="./screen3.png"/>
+</div>
 
 ## Installation
 - Clone this repository on your local filesystem

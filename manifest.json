@@ -1,6 +1,6 @@
 {
   "name": "AWS Console Customizer",
-  "version": "1.0",
+  "version": "1.2",
   "description": "AWS Console Customizer",
   "manifest_version": 2,
   "permissions": [
@@ -14,7 +14,7 @@
   },
   "content_scripts": [
     {
-      "matches": ["*://signin.aws.amazon.com/*"],
+      "matches": ["*://signin.aws.amazon.com/*", "*://console.aws.amazon.com/*"],
       "js": ["jquery-3.4.1.min.js", "content.js"],
       "run_at": "document_end",
       "all_frames": true
