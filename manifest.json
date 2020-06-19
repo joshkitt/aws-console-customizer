@@ -1,6 +1,6 @@
 {
   "name": "AWS Console Customizer",
-  "version": "1.2",
+  "version": "1.3",
   "description": "AWS Console Customizer",
   "manifest_version": 2,
   "permissions": [
@@ -23,5 +23,10 @@
   "browser_action": {
     "default_icon": "icon.png",
     "default_popup": "popup.html"
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "aws-console-customizer@evdb.app"
+    }
   }
 }
